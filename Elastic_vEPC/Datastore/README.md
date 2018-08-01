@@ -1,6 +1,6 @@
 **Data Store Files**
 
-The Data Store Files are available online in the URL: 
+The configuration files for the installation and execution of the data store are available online in the URL: 
 
 
 
